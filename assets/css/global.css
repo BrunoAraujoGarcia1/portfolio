@@ -3,6 +3,11 @@
     font-family: "Open Sans", sans-serif;
 }
 
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('/assets/fonts/NeueMachina-Regular.otf');
+}
+
 body {
     background-color: black;
     color: white;
